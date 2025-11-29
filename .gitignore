@@ -4,4 +4,4 @@ dbt_packages/
 logs/
 profiles.yml
 .DS_Store
-.user.yml
+seeds
