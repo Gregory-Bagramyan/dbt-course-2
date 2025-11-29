@@ -14,4 +14,4 @@ SELECT
     created_at,
     updated_at
 FROM
-    src_host
+    src_hosts
