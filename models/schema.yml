@@ -26,6 +26,10 @@ models:
                     "Hotel room",
                   ]
 
+      - name: niminum_nights
+        data_tests:
+          - positive_values
+
   - name: dim_hosts_cleansed
     config:
       contract:
